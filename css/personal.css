@@ -1,0 +1,111 @@
+
+h1 {
+        font-size: 60px;
+        font-weight: bolder;
+        margin-left: 60%;
+        display: flex;
+        text-align: justify;
+      }
+h2{
+    font:36px bolder;
+    text-decoration: underline;
+    color: orangered;
+}
+#top-left{
+ position: absolute;
+  top: 10%;
+  left: 20%;
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 66px;
+}  
+    #inf {
+      position: absolute;
+     color: white;
+    font-weight: normal;
+    text-align: center;
+    font-size: 40px;
+       }
+#front{
+     text-align: center;
+    background-color: burlywood;
+    margin:  0px 0px 0px 0px;
+    border: none;
+   height:80%;
+   width: 100%;
+    box-sizing: border-box;
+    background-size: cover;
+      position:inherit;
+}
+
+#front-img{
+      height:100%;
+      width: 100%;
+    padding-top: 60px;
+    box-sizing: border-box;
+}
+
+p{
+    font:26px bold ;
+    color: orange;
+}
+
+    #btnw {
+        margin-left: 60%;
+    } 
+   
+    .card {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        margin-left: 1%;
+        margin-right: 1%;
+        max-width:98%;
+        background-color: #F5E8C7;
+    }
+#nav{
+    padding-left: 40%;
+    padding-right: 40%;  
+    font-size: 20px;
+    font-weight: bold;
+    background-color:burlywood;
+    display: block;
+     position:fixed;
+}
+.nav-item a:hover {
+  border-bottom: 3px solid orange;
+}
+
+.nav-item a.active {
+  border-bottom: 3px solid darksalmon;
+    border-top: 3px solid darksalmon;
+}
+#carouselExampleFade{
+    width: 50%;
+    height:50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 10%;
+}
+body{
+font:"18px #6F4C5B";    
+font-family:serif;
+    text-align: center;
+    background-color:antiquewhite;
+    
+}
+#footer{
+      margin-left: 0px;
+        margin-right: 0px;
+    margin-top: auto;
+   background-color:darksalmon;
+    padding-bottom: 60px;
+   
+    
+}
+#footer p{
+    color:white;
+}
+#footer h2{
+    color:white;
+}
